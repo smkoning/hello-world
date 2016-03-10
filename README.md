@@ -2,7 +2,7 @@
 This is my Patchwork Amsterdam repository with great references for places to eat and drink.
 
 ```ruby
-puts 'Hello World!'
+puts 'Hello Amsterdam!'
 ```
 
 
